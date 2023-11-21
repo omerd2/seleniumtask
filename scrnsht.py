@@ -19,4 +19,4 @@ sleep(2)
 browser.get_screenshot_as_file("screenshot.png")
 shutil.move("/screenshot.png", "/screenshots/screenshot.png")
 browser.quit()
-print("end..."
+print("end...")
